@@ -359,4 +359,6 @@ Selanjutnya kita melakukan Run untuk melihat hasil akhirnya
 
 # Hasil Run
 
+https://github.com/nadyakhorun/FragmentTab/assets/115801823/d15fe742-f237-4a85-aced-da95ef852465
+
 # Sekian dan Terima Kasih
