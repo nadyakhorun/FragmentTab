@@ -200,7 +200,7 @@ Disini, kita masih menggunakan project di tugas sembilan kemarin, jadi sekarang 
                   </ScrollView>
               </FrameLayout>
 
-        *Sesuaikan judul, poster, dan sinopsis sesuai dengan keinginan
+     *Sesuaikan judul, poster, dan sinopsis sesuai dengan keinginan
 
     * fragment_third.xml
    
