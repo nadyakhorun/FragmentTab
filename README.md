@@ -29,7 +29,7 @@ Disini, kita masih menggunakan project di tugas sembilan kemarin, jadi sekarang 
       val fragmentVersion = "1.6.2"
       implementation("androidx.fragment:fragment:$fragmentVersion")
 
-      *Jika sudah menambahkan jangan lupa untuk di sync agar grandle sinkron dengan projectnya.
+  *Jika sudah menambahkan jangan lupa untuk di sync agar grandle sinkron dengan projectnya.
 
 - Kemudian, buka activity_fragment.xml dan tambahkan code berikut untuk tampilan layputnya
 
