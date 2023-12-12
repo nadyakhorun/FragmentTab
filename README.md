@@ -344,10 +344,10 @@ Dengan ini untuk project fragmentnya sudah selesai. Sekarang kita akan tambahkan
 
 -  Yang kedua, buka MainActivity.java dan tambahkan code intent untuk project fragmentnya. Berikut adalah codenya:
 
-        public void btnFragmentActivity(View view) {
-          Intent fragact = new Intent(MainActivity.this, FragmentActivity.class);
-          startActivity(fragact);
-      }
+              public void btnFragmentActivity(View view) {
+                Intent fragact = new Intent(MainActivity.this, FragmentActivity.class);
+                startActivity(fragact);
+            }
 
 - Yang ketiga, buka AndroidManifest.xml dan tambahkan code berikut :
 
